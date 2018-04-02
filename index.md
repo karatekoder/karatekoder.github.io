@@ -65,7 +65,7 @@
                 Once the page has determined you have enterd a number, it will determine whether the number is 0. For this assignment, the user is must only enter nonzero numeric values. <br> 
                 As with the iNaN scenario, the window will alert you accordingly. <br>
                 Once the user's submission has passed these requirments, only then will the program begin to calculate.<br>
-                This page is dynamic, meaning the values displayed changes as the user inputs more numbers.<br \>
+                This page is dynamic, meaning the values displayed changes as the user inputs more numbers.<br>
                 The specific calculations displayed are the sum and averages of the even and odd numbers entered.</p>
             <br>
             Enter a number &nbsp; &nbsp;<input type="text" id="enteredNumber"> &nbsp; &nbsp;
