@@ -76,7 +76,5 @@
             The sum of the even numbers you've enterd is: <p id="evenNumSum"></p>
             The average of the even numbers you've entered is: <p id="evenNumAvg"></p>
         </body>
-        <footer>
-            <p>Made by <i>Michael Kariuki</i> for PROG 1800 Assignment 1. Due February 13, 2018</p>
-        </footer>
+        
     </html>
