@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
         <head>
             <!--meta viewport-->
@@ -53,7 +53,7 @@
         </script>
         </head>
         <header>
-            <h1>Assignment 1</h1>
+            <h1>Assignment 1</h1><br>
         </header>
         <body>
             <h2>Purpose</h2>
